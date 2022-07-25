@@ -1,0 +1,9 @@
+# Binaries
+/node
+# MacOS
+.DS_Store
+# Misc.
+*~
+*.o
+.vagrant/
+\#*#

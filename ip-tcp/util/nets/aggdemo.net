@@ -1,0 +1,13 @@
+node A localhost
+node B localhost
+node C localhost
+node D localhost
+node E localhost
+node F localhost
+node G localhost
+A <-> E
+B <-> E
+C <-> E
+D <-> E
+E <-> F
+F <-> G

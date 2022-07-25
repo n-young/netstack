@@ -1,0 +1,9 @@
+# Binaries
+/who-dis
+# MacOS
+.DS_Store
+# Misc.
+*~
+*.o
+.vagrant/
+\#*#
